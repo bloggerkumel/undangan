@@ -10,7 +10,7 @@ export const data = {
         },
         P: {
             id: 2,
-            name: 'Nama Putri Siapa',
+            name: 'Putri Siapa',
             child: 'Putri ke 7',
             father: 'Siapa',
             mother: 'Siapa',
